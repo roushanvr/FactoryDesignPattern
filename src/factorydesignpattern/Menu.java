@@ -1,2 +1,5 @@
-package factorydesignpattern;public interface Menu {
+package factorydesignpattern;
+
+public interface Menu {
+    void changeMenu();
 }

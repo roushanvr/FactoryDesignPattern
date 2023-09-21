@@ -1,2 +1,6 @@
-package factorydesignpattern;public interface UIFactory {
+package factorydesignpattern;
+
+public interface UIFactory {
+    Button createButton();
+    Menu createMenu();
 }

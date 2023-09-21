@@ -1,2 +1,5 @@
-package factorydesignpattern;public interface Button {
+package factorydesignpattern;
+
+public interface Button {
+    void changeButtonSize();
 }
